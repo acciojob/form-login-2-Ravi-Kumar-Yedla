@@ -1,6 +1,7 @@
 //your JS code here. If required.
 function submitForm(){
 	//collect all the values from the above form
+	
       var firstName =  document.getElementById("firstName").value;	
       var lastName =  document.getElementById("lastName").value;	
       var phoneNumber=  document.getElementById("phoneNumber").value;	
